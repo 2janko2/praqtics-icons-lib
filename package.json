@@ -1,7 +1,7 @@
 {
-  "name": "REPLACE_ME",
+  "name": "praqtics-icons",
   "version": "1.0.0",
-  "description": "Starter project to build an SVG icon library",
+  "description": "Praqtics icons lib",
   "main": "index.js",
   "sideEffects": false,
   "scripts": {
@@ -16,20 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kreuzerk/svg-icon-library-starter.git"
+    "url": "git+https://github.com/2janko2/praqtics-icons-lib.git"
   },
-  "keywords": [
-    "SVG",
-    "icons",
-    "library",
-    "starter"
-  ],
-  "author": "Kevin Kreuzer",
+  "author": "Ivan Khlysta",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kreuzerk/svg-icon-library-starter/issues"
-  },
-  "homepage": "https://github.com/kreuzerk/svg-icon-library-starter#readme",
+  "homepage": "https://github.com/2janko2/praqtics-icons-lib",
   "devDependencies": {
     "cpx": "^1.5.0",
     "git-cz": "^4.7.1",
