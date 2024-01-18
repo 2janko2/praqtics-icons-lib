@@ -1,6 +1,6 @@
 {
   "name": "praq-icons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Praqtics icons lib",
   "main": "index.js",
   "sideEffects": false,
